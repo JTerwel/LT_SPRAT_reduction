@@ -2,6 +2,8 @@
 
 Performs bulk quick extraction of LT-SPRAT spectra using the 1D output from the LT pipeline. A flux correction is applied depending on airmass.
 
+QuickSPRATPipeline_new.py is a new version that does not use iraf, made by Georgios Dimitriadis
+
 Alternatively, the notebook provides a way for more manual extracting if desired.
 
 Requires Pyraf, see Astroconda
